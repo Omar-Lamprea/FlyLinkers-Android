@@ -41,7 +41,6 @@ import com.google.firebase.auth.GoogleAuthProvider;
 
 
 public class MainActivity extends AppCompatActivity {
-
     private RequestQueue queue;
     private FirebaseAuth mAuth;
     private GoogleSignInClient mGoogleSignInClient;
